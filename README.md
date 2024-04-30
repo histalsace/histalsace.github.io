@@ -1,3 +1,6 @@
-# histalsace.github.io
-Un site sur l'histoire de l'Alsace
-test
+# Histoire de l'Alsace
+Quelques notes et rfrences sur l'histoire de l'Alsace
+
+[Conflits en Alsace](./conflits.md)
+
+
