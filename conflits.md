@@ -18,6 +18,7 @@
 * 1027 Ernest II de Souabe contre Conrad II le Salique
 * 1114 Frédéric le borgne contre les Eguisheim
 * 1123 Siège de Molsheim
+* 1130 L'évêque de Strasbourg remporte une victoire sur les Souabes à Gougenheim
 * 1144 Attaque d'Eguisheim
 * 1198 Pillage de Molsheim
 * 1198 Attaque d'Eguisheim
@@ -72,6 +73,7 @@
 * 1386 Bataille de Sempach
 * 1386 Chateau de Loewenstein détruit par Johann de Lichtenberg
 * 1388 Robert II du Palatinat
+* 1388 Les troupes du Margrave de Bade mettent flamme Gambsheim
 * 1389 Brumath incendiée par Strasbourg et Haguenau
 * 1390 Siège du chateau du Kagenfels
 * 1397 Siège du chateau du Kagenfels
@@ -135,7 +137,7 @@
 * 1569 Duc d'Aumale brule Dossenheim-Kochersberg
 * 1571 Soultzmatt attaquée par les Navarrais
 * 1572 Les troupes du comte de Lorraine traversent le comté de Sarrewerden et la seigneurie de Diemeringen en direction de Bitche, qu'elles conquièrent. Dehlingen est pillée.
-* 1587 Diebskrieg?
+* 1587 Diebskrieg (Gambsheim...)
 * 1587 Bischwiller prise d'assaut et incendie par une troupe de lansquenets en route vers la France
 * 1588 Dossenheim-Kochersberg?
 * 1589 Charles de Lorraine
