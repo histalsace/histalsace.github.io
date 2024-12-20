@@ -5,12 +5,18 @@
 * -58 Bataille de l'Ochsenfeld
 * 21 Destruction de Helvetum (Ehl)
 * 40 Destruction de Helvetum (Ehl)
+* 69-70 Révolte de Claudius Civilis le Borgne, destruction de Argentoratum, Brocomagus, Tres Tabernae, etc...
+* 96 Révolte des champs décumates. Ravege de Strasbourg, Ehl, Selz
+* 166 Les Germains franchissent le danube. Strasbourg, Saverne, Ehl sont touchées.
 * 187 Guerre des deserteurs
+* 192 Guerre civile suite à l'assassinat de Commode
 * 235 Attaque de la légion VIII par les Alamans
+* 244 Incursions de Germains dans le nord de l'Alsace
 * 356 Romains contre Alamans à Brumath
 * 357 Bataille d'Argentoratum
 * 378 Bataille d'Argentovaria
 * 407 Destruction de Helvetum (Ehl) par les Vandales
+* 610 Thibert II envahit et ravage l'Alsace
 * 742 Rébellion de Theudebald
 * 917 Massacre des habitants de Dagostein (Dachstein?) par les Hongrois
 * 1002 Le duc de Souabe ravage Strasbourg
@@ -20,6 +26,7 @@
 * 1123 Siège de Molsheim
 * 1130 L'évêque de Strasbourg remporte une victoire sur les Souabes à Gougenheim
 * 1144 Attaque d'Eguisheim
+* 1162 Hugo IX d'Eguisheim-dabo assiège et détruit le chateau de Horbourg
 * 1198 Pillage de Molsheim
 * 1198 Attaque d'Eguisheim
 * 1218 Guerre des caves
@@ -48,13 +55,16 @@
 * 1293 Siège de l'Ortenbourg
 * 1293 Evêque de Strasbourg Conrad de Lichtenberg s'empare de Colmar, haguenau, ...
 * 1293 Siège de wihr-au-val et Colmar
+* 1296 Destruction du bourg de Crax par l'évêque Conrad de Lichtenberg et les Strasbourgeois alors en guerre contre Cunon de Berckheim
 * 1298 Attaque de Turckheim par les Ribeaupierre
 * 1298 Guerre entre Adolphe de Nassau et le duc Albert Ier
 * 1298 Siège d'Eguisheim par Adolphe de Nassau
 * 1298 Eveque de Strasbourg Conrad de Lichtenberg s'empare de Kientzheim
+* 1298 Les habitants de Chatenois brulent et dévastent le chateau de Kintzheim
 * 1298 Chatenois brulé par les habitants de Selestat
 * 1306 Siège du chateau de Gigersbourg par Henri-le-jeune de Rappoltstein
 * 1308 Mutzig 
+* 1314 La ville de Strasbourg Détruit Wingen et Hinsbourg
 * 1315 Chateau du Laubeck pris par l'évêque de Strasbourg
 * 1331 Population de Benfeld massacrée par les troupes du duc de Wurtemberg
 * 1332 Destruction du chateau du vieux Windstein par Strasbourg
@@ -72,10 +82,13 @@
 * 1385 Siège du Wasigenstein
 * 1386 Bataille de Sempach
 * 1386 Chateau de Loewenstein détruit par Johann de Lichtenberg
+* 1386 Brigandage à Pfaffenhoffen par des chevaliers pillards (Bulletin "Pays d'alsace" apr 1976)
 * 1388 Robert II du Palatinat
 * 1388 Les troupes du Margrave de Bade mettent flamme Gambsheim
+* 1388 Pillage et incendie de Pfaffenhoffen par Strasbourg (lutte entre les Ochtenstein et Lichtenberg)
 * 1389 Brumath incendiée par Strasbourg et Haguenau
 * 1390 Siège du chateau du Kagenfels
+* 1391 Le comte de Deux-Ponts-Bitche occupe Menschhoffen
 * 1397 Siège du chateau du Kagenfels
 * 1406 Siège du chateau de Hagelschloss
 * 1407 Les comtes de Saarwerden, Saarbrücken et Salm combattent en commun le duc de Lorraine et l’évêque de Metz.
@@ -92,6 +105,7 @@
 * 1426 Incursion de Thiebaut de Neuchatel
 * 1427 Dannemarie détruite par le compte de Montjoie et le comte de Neuchatel
 * 1431 Eglise de Dannemarie brulée par les bourguignons
+* 1431 Strasbourg vs Held von Tiefenau?
 * 1432 Siège du chateau du Spesbourg par Etienne de Bavière
 * 1435 Siège du Wasigenstein
 * 1438 Prise du chateau d'Andlau par les troupes d'Obernai
@@ -129,15 +143,17 @@
 * 1486 Siège du chateau de Hochfelden par l'électeur palatin
 * 1490 Pillage du chateau de Freundstein par les soultziens
 * 1493 Bundschuh (Blienschwiller)
+* 1499 Guerre de Souabe
 * 1517 Bundschuh en Foret-Noire
 * 1525 Guerre des paysans
 * 1547 Siège du chateau de Bilstein par les troupes imperiales (guerre de smalkalde)
 * 1552 Voyage d'Allemagne
 * 1569 Comte palatin
-* 1569 Duc d'Aumale brule Dossenheim-Kochersberg
+* 1569 Duc d'Aumale brule Dossenheim-Kochersberg. Pfaffenhofen pillé    
 * 1571 Soultzmatt attaquée par les Navarrais
 * 1572 Les troupes du comte de Lorraine traversent le comté de Sarrewerden et la seigneurie de Diemeringen en direction de Bitche, qu'elles conquièrent. Dehlingen est pillée.
-* 1587 Diebskrieg (Gambsheim...)
+* 1577-1578 huguenots à Schirmeck
+* 1587 Diebskrieg (Gambsheim, Krautergersheim...)
 * 1587 Bischwiller prise d'assaut et incendie par une troupe de lansquenets en route vers la France
 * 1588 Dossenheim-Kochersberg?
 * 1589 Charles de Lorraine
@@ -146,6 +162,7 @@
 * 1652 Invasion des Lorrains à Ammerschwihr et Riquewihr (Wikipedia) et Ittenheim (Registre paroissial 3 E 225/2)
 * 1672-1678 Guerre de Hollande
 * 1681 Prise de Strasbourg
+* 1694 Pilages à Pfaffenhoffen (guerre de succession du Palatinat)
 * 1701-1714 Guerre de succession d'Espagne
 * 1744 Pandours à Saverne
 * 1793 Troupes contre-révolutionnaires à Molsheim
@@ -160,3 +177,4 @@
 * http://chateauxalsaciens.free.fr/index.htm
 * https://fr.wikipedia.org/wiki/Bischwiller
 * https://fr.wikipedia.org/wiki/Dehlingen
+* Nos Ancêtres les Alamans, Bernard Wittmann
