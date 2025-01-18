@@ -19,6 +19,7 @@
 * 610 Thibert II envahit et ravage l'Alsace
 * 742 Rébellion de Theudebald
 * 917 Massacre des habitants de Dagostein (Dachstein?) par les Hongrois
+* 926 Hongrois
 * 1002 Le duc de Souabe ravage Strasbourg
 * 1026 Ernest de Souabe à Eguisheim
 * 1027 Ernest II de Souabe contre Conrad II le Salique
@@ -73,10 +74,11 @@
 * 1347 Guerre entre Frederic II de Swwewerden et Burkard de Fenetrange
 * 1363 Grandes companies
 * 1365 Arnaud de Cervole
+* 1365 Chateau de Hohatzenheim détruit par les strasbourgeois
 * 1369 Incendie de Eckbolsheim par Ruprecht de Bavière
 * 1374 Jean de Lorraine
 * 1375-1376 Enguerrand de Coucy et les gugler
-* 1379 Jean II de Saarwerden enguerre avec le comte Heinri de Zweibrücken-Bitche
+* 1379 Jean II de Saarwerden en guerre avec le comte Heinri de Zweibrücken-Bitche
 * 1382 Siège du chateau de l'Ochsenstein par les strasbourgeois
 * 1383 Siège du chateau du Kagenfels
 * 1385 Siège du Wasigenstein

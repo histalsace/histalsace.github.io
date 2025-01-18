@@ -1,8 +1,6 @@
 # Références
 
-## Liens internet
 
-* [Maisons de Strasbourg](maisons-de-strasbourg.fr.nf)
 
 ## Revues et Bulletins
 
@@ -24,16 +22,20 @@
 
 ## Généalogie
 
-[Cercle Généalogique d'Alsace](alsace-genealogie.com)
-[Centre de Recherches sur l'Histoire des Familles](www.crhf.net/fr)
+* [Cercle Généalogique d'Alsace](https://alsace-genealogie.com)
+* [Centre de Recherches sur l'Histoire des Familles](www.crhf.net/fr)
 
 ## Archives
 
-* [Archives Départementales du Bas-Rhin](archives.bas-rhin.fr)
-* [Archives Départementales du Haut-Rhin](archives.haut-rhin.fr)
-* [Archives Municipales de Strasbourg](archives.strasbourg.eu)
+* [Archives Départementales du Bas-Rhin](https://archives.bas-rhin.fr)
+* [Archives Départementales du Haut-Rhin](https://archives.haut-rhin.fr)
+* [Archives Municipales de Strasbourg](https://archives.strasbourg.eu)
 
 ## Bibliographie
 
-* [Les Seigneurs, les Paysans et la Propriété Rurale en Alsace](gallica.bnf.fr/ark:/12148/bpt6k57861055.texteImage)
+* [Les Seigneurs, les Paysans et la Propriété Rurale en Alsace](https://gallica.bnf.fr/ark:/12148/bpt6k57861055.texteImage)
 * ...
+
+## Liens internet
+
+* [Maisons de Strasbourg](https://maisons-de-strasbourg.fr.nf/)
