@@ -160,6 +160,7 @@
 * 1588 Dossenheim-Kochersberg?
 * 1589 Charles de Lorraine
 * 1592-1604 Guerre des evêques
+* 1610 Guerre de Succession de Juliers
 * 1618-1648 Guerre de trente ans 1620,1621,1622,1623,1629,1631,1632,1633,1634,1635,1636,1638,1642,1643  
 * 1652 Invasion des Lorrains à Ammerschwihr et Riquewihr (Wikipedia) et Ittenheim (Registre paroissial 3 E 225/2)
 * 1672-1678 Guerre de Hollande
